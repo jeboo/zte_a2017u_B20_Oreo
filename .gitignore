@@ -98,3 +98,6 @@ x509.genkey
 all.config
 drivers/soc/qcom/vendor
 include/soc/qcom/vendor
+
+drivers/platform/msm/ipa/ipa_common
+firmware/synaptics/*.img
